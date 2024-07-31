@@ -6,6 +6,15 @@
  font-style: italic;
 }
 
-#klk{
-  color: chartreuse;
+.container{
+  border: 10px solid blue ;
+  border-radius: 15px;
+  width: 200px;
+  background-color: blue;
+}
+
+.imagen{
+  width: 200px;
+  height: 250px;
+  border-radius: 10px;
 }
