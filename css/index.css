@@ -1,0 +1,20 @@
+.hola{
+  color: rgb(174, 220, 141);
+  font-size: 60px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+.container{
+  border: 20px solid red;
+  border-radius: 15px;
+  width: 300px;
+  background-color: red;
+}
+
+.imagenes{
+  width: 300px;
+  border-radius: 10px;
+}
+
+
