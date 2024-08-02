@@ -1,0 +1,41 @@
+.k{
+    color: rgb(142, 127, 255);
+    display: flex;
+    justify-content: center;
+}
+.meme{
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/199/400/998/transformers-the-autobots-transformers-wallpaper-preview.jpg);
+  width: 100%;
+  height: 450px;
+}
+.AUTOBOTS{
+  color: rgba(48, 42, 165, 0.833);
+  display: flex;
+  justify-content: center;
+}
+.dos{
+  color: rgb(165, 42, 42);
+}
+.uno {
+  display: flex;  
+  justify-content: space-evenly;
+  width: 100%;
+  height: 25px;
+  
+}
+
+.trans{
+  display: flex;
+  justify-content: space-evenly;
+  height: 220px;
+  width: 100%;
+}
+.cinco{
+width: 140px;
+height: 140px;
+}
+
+.cinco img{
+  width: 140px;
+  height: 210px;
+}
