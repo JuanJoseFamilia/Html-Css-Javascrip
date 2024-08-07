@@ -1,11 +1,15 @@
+body{
+  margin: 0;
+}
 .k{
     color: rgb(142, 127, 255);
     display: flex;
     justify-content: center;
 }
+
 .meme{
   background-image: url(https://c4.wallpaperflare.com/wallpaper/199/400/998/transformers-the-autobots-transformers-wallpaper-preview.jpg);
-  width: 100%;
+  width: 100vw;
   height: 450px;
 }
 .AUTOBOTS{
@@ -38,4 +42,9 @@ height: 140px;
 .cinco img{
   width: 140px;
   height: 210px;
+}
+.decepticons{
+  color: brown;
+  display: flex;
+  justify-content: center;
 }
