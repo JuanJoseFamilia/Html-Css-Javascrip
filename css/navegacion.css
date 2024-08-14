@@ -117,6 +117,13 @@ justify-content: end;
     flex-direction: column;
     
 }
+
+#lol{ 
+    display: flex;
+    justify-content: center;
+
+}
+
 .productos{
 display: flex;
 flex-direction: row;
